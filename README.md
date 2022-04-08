@@ -1,7 +1,5 @@
 ## Hello World ★ I'm Natalia Bortoli Vieira... 🤩
 
-![snake gif](https://github.com/nataliavieirab/nataliavieirab/blob/output/github-contribution-grid-snake.gif)
-
 - 📚 Student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
 - 💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
 - 😊 Pronouns: she/her/hers
