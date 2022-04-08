@@ -1,8 +1,8 @@
 ## Hello World! I'm Natália Bortoli Vieira... Welcome 🤩
 
-📚 I'm a student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
-💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
-😊 Pronouns: she/her/hers
+- 📚 I'm a student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
+- 💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
+- 😊 Pronouns: she/her/hers
 
 <div align="center">
   <a href="https://github.com/nataliavieirab">
