@@ -1,4 +1,4 @@
-## Hello Wordl ★ I'm Natalia Bortoli Vieira... 🤩
+## Hello World ★ I'm Natalia Bortoli Vieira... 🤩
 
 - 📚 I'm a student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
 - 💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
