@@ -1,5 +1,7 @@
 ## Hello World ★ I'm Natalia Bortoli Vieira... 🤩
 
+![snake gif](https://github.com/nataliavieirab/nataliavieirab/blob/output/github-contribution-grid-snake.gif)
+
 - 📚 Student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
 - 💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
 - 😊 Pronouns: she/her/hers
@@ -22,9 +24,12 @@
    <a href="https://www.linkedin.com/in/nataliavieirab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:nataliabortolivieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nataliavieirab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/nataliaavieirab" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a>
+  <a href="https://twitter.com/nataliaavieirab" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+    
+![snake gif](https://github.com/nataliavieirab/nataliavieirab/blob/output/github-contribution-grid-snake.gif)
     
 
        
 </div>
-![snake gif](https://github.com/nataliavieirab/nataliavieirab/blob/output/github-contribution-grid-snake.gif)
+
