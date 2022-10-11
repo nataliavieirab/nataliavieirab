@@ -1,4 +1,4 @@
-## Hello World ★ I'm Natalia Bortoli Vieira... 🤩
+## Hello World ★ I'm Natalia Vieira... 🤩
 
 - 📚 Student of Information and Communication Technology at the Federal University of Santa Catarina (UFSC)
 - 💻 Currently looking to expand my knowledge and experience in web development, focusing on HTML, CSS and JavaScript.
@@ -13,7 +13,7 @@
   <img align="center" alt="Nati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nati-Gif" width="150" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/6d7377fd9d74036f97fb61cc7cb28989.gif">
+
 </div>
   
   ##
