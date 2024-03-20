@@ -1,7 +1,6 @@
 ## Hello World, I'm Natalia 🦋
 <div>
-  <img alt="my stats" height="180em" src="https://github-readme-stats-22an.vercel.app/api?username=nataliavieirab&show_icons=true&hide=issues,contribs&theme=neon"/>
-  <img alt="my most usage languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&layout=compact&theme=neon"/>
+<img alt="my stats" height="180em" src="https://github-readme-stats-22an.vercel.app/api?username=nataliavieirab&show_icons=true&hide=issues,contribs&theme=neon"/><img alt="my most usage languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&layout=compact&theme=neon"/>
   
 </div>
 
