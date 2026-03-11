@@ -11,7 +11,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="525" 
+    height="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=bear&include_all_commits=true"
   />
@@ -19,7 +19,7 @@
   <img 
     align="left" 
     alt="GitHub Most Used Languages" 
-    width="400"
+    height="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=bear&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" 
   />
