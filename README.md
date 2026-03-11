@@ -11,16 +11,15 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
+    style="padding-left: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=bear&include_all_commits=true"
   />
   
   <img 
     align="left" 
     alt="GitHub Most Used Languages" 
-    height="200"
-    style="padding-right: 10px;" 
+    width="355"
+    style="padding-left: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=bear&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" 
   />
 </p>
