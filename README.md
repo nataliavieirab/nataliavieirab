@@ -7,19 +7,14 @@
 
 ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ 
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    style="padding-left: 10px;" 
+    width="465"
     src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=bear&include_all_commits=true"
   />
-  
+  &nbsp;&nbsp;&nbsp;
   <img 
-    align="left" 
-    alt="GitHub Most Used Languages" 
     width="355"
-    style="padding-left: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=bear&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=bear&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"
   />
 </p>
