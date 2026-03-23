@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌺​ Natalia Bortoli Vieira
 
-<!--
-**nataliavieirab/nataliavieirab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Full-Stack Developer`** 
+> I'm a software development enthusiast from Brazil 🇧🇷
+> <br>
+I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
+> <br>
 
-Here are some ideas to get you started:
+**Passionate about technology, continuous learning, and writing clean, maintainable code.**
+<br>
+***Always strive to follow best practices and grow as a developer.***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑  
+
+<p align="left">
+  <img 
+    width="465"
+    src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    width="355"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+  />
+</p>
