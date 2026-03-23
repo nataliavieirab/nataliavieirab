@@ -11,8 +11,6 @@ I hold a degree in Information and Communication Technologies from the Federal U
 ***Always strive to follow best practices and grow as a developer.***
 
 ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑  
-
-  <h3> GitHub Stats </h3>
 <p align="left">
   <img 
     width="465"
@@ -24,6 +22,8 @@ I hold a degree in Information and Communication Technologies from the Federal U
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
   />
 </p>
+
+#
 
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliavieirab/nataliavieirab/output/github-contribution-grid-snake-dark.svg">
