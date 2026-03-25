@@ -4,11 +4,11 @@
 > I'm a software development enthusiast from Brazil 🇧🇷
 > <br>
 I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
-> <br>
 
-**Passionate about technology, continuous learning, and writing clean, maintainable code.**
+
+:two_hearts: **Passionate about writing clean & maintainable code.**
 <br>
-***Always strive to follow best practices and grow as a developer.***
+
 
 ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑  
 <p align="left">
