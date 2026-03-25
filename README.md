@@ -5,8 +5,6 @@
 > <br>
 I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
 
-<br>
-
 <p align="left">
 :sparkles: <strong><em>Passionate about writing clean & maintainable code.<em></strong> :sparkles:
 </p>
@@ -25,6 +23,7 @@ I hold a degree in Information and Communication Technologies from the Federal U
   />
 </p>
 
+⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliavieirab/nataliavieirab/output/github-contribution-grid-snake-dark.svg">
