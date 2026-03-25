@@ -6,7 +6,7 @@
 I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
 
 
-:two_hearts: **Passionate about writing clean & maintainable code.**
+:sparkles: **Passionate about writing clean & maintainable code.**
 <br>
 
 
