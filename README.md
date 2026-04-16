@@ -11,16 +11,18 @@ I hold a degree in Information and Communication Technologies from the Federal U
 
 ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑
 
+
 <p align="center">
-  <img 
-    width="465"
-    src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
-  />
-  &nbsp;&nbsp;&nbsp;
   <img 
     width="355"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
   />
+    &nbsp;&nbsp;&nbsp;
+  <img 
+    width="465"
+    src="https://github-readme-stats.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
+  />
+
 </p> 
 
 
