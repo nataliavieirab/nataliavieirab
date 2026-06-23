@@ -26,26 +26,33 @@ I hold a degree in Information and Communication Technologies from the Federal U
 
 ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑
 
-
 <p align="center">
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MaterialUI-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-</p>
+  <!-- Languages -->
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" />
 
+  <!-- Frontend -->
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" title="HTML5" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" title="CSS3" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MaterialUI-Dark.svg" alt="Material UI" title="Material UI" />
+
+  <!-- Backend -->
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" alt="NestJS" title="NestJS" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" alt="Prisma" title="Prisma" />
+
+  <!-- Databases -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL" />
+
+  <!-- Tools -->
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" />
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliavieirab/nataliavieirab/output/github-contribution-grid-snake-dark.svg">
