@@ -9,16 +9,6 @@ I hold a degree in Information and Communication Technologies from the Federal U
 ───────────────────────────────────────────── ✨ <strong><em>Passionate about writing clean & maintainable code</em></strong> ✨
 </p>
 
-<!-- <table width="100%">
-<tr>
-<td align="left">
-
-✨ <strong><em>Passionate about writing clean & maintainable code.</em></strong> ✨
-
-</td>
-</tr>
-</table> -->
-
 <p align="center">
   <img 
     width="355"
@@ -50,7 +40,7 @@ I hold a degree in Information and Communication Technologies from the Federal U
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" alt="NestJS" title="NestJS" />
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" alt="Prisma" title="Prisma" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />
 
   <!-- Databases -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
