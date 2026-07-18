@@ -5,7 +5,11 @@
 > <br>
 I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
 
-<table width="100%">
+<p align="left">
+───────────────────────────────────────────────── ✨ <strong><em>Passionate about writing clean & maintainable code</em></strong> ✨
+</p>
+
+<!-- <table width="100%">
 <tr>
 <td align="left">
 
@@ -13,9 +17,7 @@ I hold a degree in Information and Communication Technologies from the Federal U
 
 </td>
 </tr>
-</table>
-
-<hr>
+</table> -->
 
 <p align="center">
   <img 
@@ -29,7 +31,8 @@ I hold a degree in Information and Communication Technologies from the Federal U
   />
 </p> 
 
-<hr>
+<!-- ───────────────────────────────────────────────────────────────────────────────────────── -->
+
 <p align="center">
   <!-- Languages -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
