@@ -1,15 +1,21 @@
 # 🌺​ Natalia Bortoli Vieira
-
 **`Full-Stack Developer`** 
+
 > I'm a software development enthusiast from Brazil 🇧🇷
 > <br>
 I hold a degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC), and I’m currently sharpening my full-stack skills at [Academia do Programador](https://www.academiadoprogramador.net), focused on building real applications and gaining hands-on experience.
 
-<p align="left">
-:sparkles: <strong>Passionate about writing clean & maintainable code.</strong> :sparkles:
-</p>
+<table width="100%">
+<tr>
+<td align="left">
 
-⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑
+✨ <strong><em>Passionate about writing clean & maintainable code.</em></strong> ✨
+
+</td>
+</tr>
+</table>
+
+<hr>
 
 <p align="center">
   <img 
@@ -23,8 +29,7 @@ I hold a degree in Information and Communication Technologies from the Federal U
   />
 </p> 
 
-⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑ ⭑
-
+<hr>
 <p align="center">
   <!-- Languages -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
