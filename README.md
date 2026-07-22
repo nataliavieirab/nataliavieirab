@@ -10,20 +10,6 @@ I hold a degree in Information and Communication Technologies from the Federal U
 </p>
 
 <p align="center">
-  <img 
-    width="355"
-    src="https://github-readme-stats-mu-eight-44.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
-  />
-    &nbsp;&nbsp;&nbsp;
-  <img 
-    width="465"
-    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
-  />
-</p> 
-
-<!-- ───────────────────────────────────────────────────────────────────────────────────────── -->
-
-<p align="center">
   <!-- Languages -->
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" />
@@ -50,6 +36,22 @@ I hold a degree in Information and Communication Technologies from the Federal U
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" />
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
 </p>
+
+<hr>
+
+<p align="center">
+  <img 
+    width="355"
+    src="https://github-readme-stats-mu-eight-44.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+  />
+    &nbsp;&nbsp;&nbsp;
+  <img 
+    width="465"
+    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
+  />
+</p> 
+
+<!-- ───────────────────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center"> 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nataliavieirab&bg_color=000000&color=00EAD3&custom_title=Activity%20Graph&line=FF007C&border_color=ffffff&radius=10&theme=radical" alt="activity graph" />
