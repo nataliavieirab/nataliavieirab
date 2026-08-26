@@ -57,9 +57,9 @@ I hold a degree in Information and Communication Technologies from the Federal U
 
 <p align="center"> 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nataliavieirab&bg_color=000000&color=00EAD3&custom_title=Activity%20Graph&line=FF007C&border_color=ffffff&radius=10&theme=radical" alt="activity graph" />
-</p> -->
+</p>
 
-<hr>
+<hr> -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliavieirab/nataliavieirab/output/github-contribution-grid-snake-dark.svg">
