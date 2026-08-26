@@ -53,11 +53,11 @@ I hold a degree in Information and Communication Technologies from the Federal U
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
 </p>
 
-<!-- ───────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- ─────────────────────────────────────────────────────────────────────────────────────────
 
 <p align="center"> 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nataliavieirab&bg_color=000000&color=00EAD3&custom_title=Activity%20Graph&line=FF007C&border_color=ffffff&radius=10&theme=radical" alt="activity graph" />
-</p>
+</p> -->
 
 <hr>
 
