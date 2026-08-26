@@ -9,7 +9,21 @@ I hold a degree in Information and Communication Technologies from the Federal U
 ───────────────────────────────────────────── ✨ <strong><em>Passionate about writing clean & maintainable code</em></strong> ✨
 </p>
 
-<!-- ───────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- Github Stats ───────────────────────────────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img 
+    width="355"
+    src="https://github-readme-stats-mu-eight-44.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+  />
+    &nbsp;&nbsp;&nbsp;
+  <img 
+    width="465"
+    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
+  />
+</p> 
+
+<!-- Stack ───────────────────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
   <!-- Languages -->
@@ -39,29 +53,15 @@ I hold a degree in Information and Communication Technologies from the Federal U
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" />
 </p>
 
-
-<p align="center">
-  <img 
-    width="355"
-    src="https://github-readme-stats-mu-eight-44.vercel.app/api/top-langs/?username=nataliavieirab&theme=neon&layout=compact&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5"
-  />
-    &nbsp;&nbsp;&nbsp;
-  <img 
-    width="465"
-    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
-  />
-</p> 
-
-<!-- ─────────────────────────────────────────────────────────────────────────────────────────-->
-
-
-<!-- ─────────────────────────────────────────────────────────────────────────────────────────
+<!-- Activity Graph ─────────────────────────────────────────────────────────────────────────────────────────
 
 <p align="center"> 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nataliavieirab&bg_color=000000&color=00EAD3&custom_title=Activity%20Graph&line=FF007C&border_color=ffffff&radius=10&theme=radical" alt="activity graph" />
 </p>
 
 <hr> -->
+
+<!-- Snake Animation ───────────────────────────────────────────────────────────────────────────────────────── -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliavieirab/nataliavieirab/output/github-contribution-grid-snake-dark.svg">
