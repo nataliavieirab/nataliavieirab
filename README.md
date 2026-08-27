@@ -19,7 +19,7 @@ I hold a degree in Information and Communication Technologies from the Federal U
     &nbsp;&nbsp;&nbsp;
   <img 
     width="465"
-    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&show_icons=true&theme=neon&include_all_commits=true"
+    src="https://github-readme-stats-mu-eight-44.vercel.app/api?username=nataliavieirab&rank_icon=github&show_icons=true&theme=neon&include_all_commits=true"
   />
 </p> 
 
