@@ -1,4 +1,4 @@
-# 🌺​ Natalia Bortoli Vieira
+# 🌺​ Natália Bortoli Vieira
 **`Full-Stack Developer`** 
 
 > I'm a software development enthusiast from Brazil 🇧🇷
